@@ -34,7 +34,7 @@ Student Home Page
 
 📁 Organized structure using Django's app architecture (registration, student, teacher).
 
-🛠️ ## Tech Stack
+## 🛠️ Tech Stack
 
 1. Backend: Django (Python)
 
