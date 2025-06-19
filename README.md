@@ -46,12 +46,4 @@ Student Home Page
 
 ## Project Structure Overview
 
-FYDP_management_system/
-├── registration/         # Handles user registration and authentication
-├── student/              # Manages student-specific functionality
-├── teacher/              # Manages teacher-specific functionality
-├── templates/            # HTML templates for rendering pages
-├── static/               # Static files like CSS, JS, images
-├── media/                # Uploaded files (if any)
-├── manage.py             # Django project management script
-├── db.sqlite3            # SQLite database
+![Image](https://github.com/user-attachments/assets/953df7b2-0ef9-4493-87eb-29740dfb8f3f)
