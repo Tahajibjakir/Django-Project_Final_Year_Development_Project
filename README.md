@@ -19,3 +19,39 @@ Student Login Page
 
 Student Home Page
 ![Image](https://github.com/user-attachments/assets/0246d8f2-a3ca-4556-bb47-afd5908940a2)
+
+
+## Features
+🔐 User Authentication: Separate login and registration functionality for teachers and students.
+
+🎓 Student Module: Register, log in, and manage FYDP-related tasks.
+
+👨‍🏫 Teacher Module: Register, log in, and manage supervision duties.
+
+⚙️ Admin Interface: Manage users and site configurations through Django’s built-in admin panel.
+
+🧭 Dashboard: Individual dashboards for students and teachers.
+
+📁 Organized structure using Django's app architecture (registration, student, teacher).
+
+🛠️ Tech Stack
+
+1. Backend: Django (Python)
+
+2. Frontend: HTML, CSS (can be extended with Bootstrap or JS frameworks)
+
+3. Database: SQLite (default, easily replaceable with PostgreSQL/MySQL)
+
+4. Environment: Virtual environment managed via venv
+
+## Project Structure Overview
+
+FYDP_management_system/
+├── registration/         # Handles user registration and authentication
+├── student/              # Manages student-specific functionality
+├── teacher/              # Manages teacher-specific functionality
+├── templates/            # HTML templates for rendering pages
+├── static/               # Static files like CSS, JS, images
+├── media/                # Uploaded files (if any)
+├── manage.py             # Django project management script
+├── db.sqlite3            # SQLite database
