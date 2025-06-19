@@ -1,0 +1,23 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.prof_lgout{
+    display: flex;
+    margin-left: 900px;
+}
+.nav-item{
+    font-size: 18px;
+    font-weight: 500;
+}
+.t_logout{
+    border-radius: 50px;
+    border: 1px solid green;
+}
+<<<<<<<<< Temporary merge branch 1
+
+.col{
+    text-align: center;
+}
+=========
+>>>>>>>>> Temporary merge branch 2

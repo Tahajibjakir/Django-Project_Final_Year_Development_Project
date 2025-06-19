@@ -1,0 +1,9 @@
+
+.nav-item{
+    font-size: 18px;
+    font-weight: 500;
+}
+.t_logout{
+    border-radius: 50px;
+    border: 1px solid green;
+}

@@ -1,0 +1,17 @@
+
+h1{
+    color: white;
+    font-weight: bold;
+    
+    position: absolute;
+    top: 10%;
+    left: 10%;
+
+}
+#bg{
+    background: rgb(0,0,0,0.7);
+    background-repeat: no-repeat;
+    background-size: 1300px 620px;
+    background-blend-mode: darken;
+ 
+}
