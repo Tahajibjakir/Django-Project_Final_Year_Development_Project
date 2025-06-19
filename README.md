@@ -1,0 +1,3 @@
+# FYDP Management System
+The FYDP Management System is a web-based application developed using the Django framework to streamline the management of Final Year Design Projects for students and teachers. It features dedicated modules for user registration, login, and dashboard access for both students and faculty members. With a clean project structure and modular design, this system helps academic institutions organize FYDP-related tasks more efficiently. It includes functionality for user authentication, role-specific access, and integration with Django’s powerful admin interface, making it easy to manage users and project data in one place.
+
